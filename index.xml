@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaap Meerhof</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Jaap Meerhof</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Jun 2023 21:55:02 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Website</title>
+      <link>http://example.org/projects/personalwebsite/</link>
+      <pubDate>Sat, 24 Jun 2023 21:55:02 +0200</pubDate>
+      
+      <guid>http://example.org/projects/personalwebsite/</guid>
+      <description>I always wanted to have my own website, however I did not want to deal with the front-end as JavaScript, css, and HTML coding is not something I enjoy.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://example.org/projects/personalwebsite/featurefrontpage.png" />
+    </item>
+    
+    <item>
+      <title>JaapCloud1.0</title>
+      <link>http://example.org/projects/jaapcloud/</link>
+      <pubDate>Sat, 24 Jun 2023 18:22:10 +0200</pubDate>
+      
+      <guid>http://example.org/projects/jaapcloud/</guid>
+      <description>New article!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://example.org/projects/jaapcloud/featureJaapCloud.png" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 24 Jun 2023 17:50:18 +0200</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>I&amp;rsquo;m Jaap Meerhof lorem ipsum</description>
+      
+    </item>
+    
+  </channel>
+</rss>

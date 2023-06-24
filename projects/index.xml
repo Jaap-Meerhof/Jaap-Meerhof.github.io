@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Jaap Meerhof</title>
+    <link>http://example.org/projects/</link>
+    <description>Recent content in Projects on Jaap Meerhof</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Jun 2023 18:24:02 +0200</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Website</title>
+      <link>http://example.org/projects/personalwebsite/</link>
+      <pubDate>Sat, 24 Jun 2023 21:55:02 +0200</pubDate>
+      
+      <guid>http://example.org/projects/personalwebsite/</guid>
+      <description>I always wanted to have my own website, however I did not want to deal with the front-end as JavaScript, css, and HTML coding is not something I enjoy.</description>
+    </item>
+    
+    <item>
+      <title>JaapCloud1.0</title>
+      <link>http://example.org/projects/jaapcloud/</link>
+      <pubDate>Sat, 24 Jun 2023 18:22:10 +0200</pubDate>
+      
+      <guid>http://example.org/projects/jaapcloud/</guid>
+      <description>New article!</description>
+    </item>
+    
+  </channel>
+</rss>
