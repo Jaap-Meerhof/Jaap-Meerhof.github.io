@@ -13,7 +13,7 @@
       <pubDate>Sat, 24 Jun 2023 21:55:02 +0200</pubDate>
       
       <guid>http://example.org/projects/personalwebsite/</guid>
-      <description>I always wanted to have my own website, however I did not want to deal with the front-end as JavaScript, css, and HTML coding is not something I enjoy.</description>
+      <description>I always wanted to have my own website, however I did not want to deal with the front-end as JavaScript, CSS, and HTML coding is not something I enjoy.</description>
     </item>
     
     <item>
@@ -23,6 +23,33 @@
       
       <guid>http://example.org/projects/jaapcloud/</guid>
       <description>New article!</description>
+    </item>
+    
+    <item>
+      <title>Blockchain Connector</title>
+      <link>http://example.org/projects/blockchain/</link>
+      <pubDate>Sat, 23 Apr 2022 21:26:24 +0200</pubDate>
+      
+      <guid>http://example.org/projects/blockchain/</guid>
+      <description>For the project of our Blockchain course we were tasked in creating anything as long as it would use or interact with blockchains.</description>
+    </item>
+    
+    <item>
+      <title>Bachelor Research</title>
+      <link>http://example.org/projects/bachelor_research/</link>
+      <pubDate>Thu, 01 Jul 2021 21:08:00 +0200</pubDate>
+      
+      <guid>http://example.org/projects/bachelor_research/</guid>
+      <description>For my bachelor&amp;rsquo;s assignment I chose a project that involved Reinforcement Learning.</description>
+    </item>
+    
+    <item>
+      <title>Bachelor Design</title>
+      <link>http://example.org/projects/bachelor_design/</link>
+      <pubDate>Sun, 14 Mar 2021 21:14:23 +0200</pubDate>
+      
+      <guid>http://example.org/projects/bachelor_design/</guid>
+      <description>For my bachelor design project we were tasked in creating a location based augmented reality app.</description>
     </item>
     
   </channel>
