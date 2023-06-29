@@ -8,12 +8,21 @@
     <language>en</language>
     <lastBuildDate>Sat, 24 Jun 2023 18:24:02 +0200</lastBuildDate><atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Master Thesis</title>
+      <link>http://example.org/projects/master/</link>
+      <pubDate>Sun, 25 Jun 2023 20:53:32 +0200</pubDate>
+      
+      <guid>http://example.org/projects/master/</guid>
+      <description>I&amp;rsquo;m currently busy with my assignment for the RIVM (National Dutch Institute for Health and Nature).</description>
+    </item>
+    
+    <item>
       <title>Personal Website</title>
       <link>http://example.org/projects/personalwebsite/</link>
       <pubDate>Sat, 24 Jun 2023 21:55:02 +0200</pubDate>
       
       <guid>http://example.org/projects/personalwebsite/</guid>
-      <description>I always wanted to have my own website, however I did not want to deal with the front-end as JavaScript, CSS, and HTML coding is not something I enjoy.</description>
+      <description>I always wanted to have my own website, however I did not want to deal with the front-end as JavaScript, CSS, and HTML coding is not something I enjoy as much as doing back-end work.</description>
     </item>
     
     <item>
