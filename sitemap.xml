@@ -4,7 +4,7 @@
   
     
       <url>
-            <loc>http://example.org/</loc>
+            <loc>https://jaap-meerhof.github.io/</loc>
             <lastmod>2023-06-25T20:53:32+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -13,7 +13,7 @@
   
     
       <url>
-            <loc>http://example.org/projects/master/</loc>
+            <loc>https://jaap-meerhof.github.io/projects/master/</loc>
             <lastmod>2023-06-25T20:53:32+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -22,7 +22,7 @@
   
     
       <url>
-            <loc>http://example.org/projects/personalwebsite/</loc>
+            <loc>https://jaap-meerhof.github.io/projects/personalwebsite/</loc>
             <lastmod>2023-06-24T21:55:02+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -31,7 +31,7 @@
   
     
       <url>
-            <loc>http://example.org/projects/</loc>
+            <loc>https://jaap-meerhof.github.io/projects/</loc>
             <lastmod>2023-06-24T18:24:02+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -40,7 +40,7 @@
   
     
       <url>
-            <loc>http://example.org/projects/jaapcloud/</loc>
+            <loc>https://jaap-meerhof.github.io/projects/jaapcloud/</loc>
             <lastmod>2023-06-24T18:22:10+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -49,7 +49,7 @@
   
     
       <url>
-            <loc>http://example.org/about/</loc>
+            <loc>https://jaap-meerhof.github.io/about/</loc>
             <lastmod>2023-06-24T17:50:18+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -58,7 +58,7 @@
   
     
       <url>
-            <loc>http://example.org/projects/blockchain/</loc>
+            <loc>https://jaap-meerhof.github.io/projects/blockchain/</loc>
             <lastmod>2022-04-23T21:26:24+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -67,7 +67,7 @@
   
     
       <url>
-            <loc>http://example.org/projects/bachelor_research/</loc>
+            <loc>https://jaap-meerhof.github.io/projects/bachelor_research/</loc>
             <lastmod>2021-07-01T21:08:00+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -80,7 +80,7 @@
   
     
       <url>
-            <loc>http://example.org/projects/bachelor_design/</loc>
+            <loc>https://jaap-meerhof.github.io/projects/bachelor_design/</loc>
             <lastmod>2021-03-14T21:14:23+02:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
