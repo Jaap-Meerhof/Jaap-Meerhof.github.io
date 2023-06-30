@@ -135,6 +135,9 @@
 
 
 
+<script defer src="/lib/packery/packery.pkgd.min.js" integrity=""></script>
+
+
 
 
 
@@ -652,6 +655,25 @@ New article!
 </h2>
 <p>The &ldquo;JaapCloud1.x&rdquo; is mostly tasked with hosting my personal <a href="https://nextcloud.com/"   target="_blank">
     Nextcloud</a> Instance. It also hosts a discord bot on the side, and is used for testing for future projects.</p>
+
+
+<div id="gallery-2">
+  
+  <img src="pi_closed.jpg" class="grid-w33" />
+  <img src="pi_open.jpg" class="grid-w33" />
+  <img src="featureJaapCloud.png" class="grid-w33" />
+
+</div>
+
+<script>
+  $(window).on("load", function () {
+    $('#gallery-2').packery({
+      percentPosition: true,
+      gutter: 5,
+      resize: true
+    });
+  })
+</script>
 <div id="hardware" class="anchor"></div>
 <h3 class="relative group">Hardware 
     <span
@@ -741,6 +763,8 @@ Features will be:</p>
 <li><strong>Powerful future proof CPU</strong>: I&rsquo;m still on the hunt for the best CPU within my price range that support ECC memory. AMD seems like the best option however as Intel locks ECC memory on most of their CPU&rsquo;s to make more money by selling the chips as &ldquo;enterprise XEON&rdquo; chips.</li>
 <li><strong>Tiered Caching</strong>: If HDD&rsquo;s are still economically viable compared to M.2 drives, then I want to have some sort of tiered caching using M.2 drives to get a more responsive Nextcloud instance.</li>
 </ul>
+<!-- ![Alt text](img/pi_closed.jpg "JaapCloud Closed")
+![Alt text](img/pi_open.jpg "JaapCloud Open") -->
 <!-- https://blowfish.page/docs/shortcodes/#button -->
 <!-- ![Alt text](image.jpg "Image caption") -->
 <!-- 
@@ -858,7 +882,7 @@ Features will be:</p>
 
 
 
-<div id="gallery-1688130140357571539" class="relative" data-te-carousel-init data-te-carousel-slide>
+<div id="gallery-1688130767818263567" class="relative" data-te-carousel-init data-te-carousel-slide>
     <div class="absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0"
         data-te-carousel-indicators>
 
@@ -874,7 +898,7 @@ Features will be:</p>
     </div>
     <button
         class="absolute top-0 bottom-0 left-0 z-[2] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
-        type="button" data-te-target="#gallery-1688130140357571539" data-te-slide="prev">
+        type="button" data-te-target="#gallery-1688130767818263567" data-te-slide="prev">
         <span class="inline-block h-8 w-8">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="4.5"
                 stroke="currentColor" class="h-6 w-6">
@@ -886,7 +910,7 @@ Features will be:</p>
     </button>
     <button
         class="absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none"
-        type="button" data-te-target="#gallery-1688130140357571539" data-te-slide="next">
+        type="button" data-te-target="#gallery-1688130767818263567" data-te-slide="next">
         <span class="inline-block h-8 w-8">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="4.5"
                 stroke="currentColor" class="h-6 w-6">
