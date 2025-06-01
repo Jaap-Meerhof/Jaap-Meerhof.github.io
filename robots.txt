@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jaap-meerhof.github.io/sitemap.xml

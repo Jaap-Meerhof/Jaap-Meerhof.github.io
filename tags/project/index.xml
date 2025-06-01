@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Jaap Meerhof</title>
+    <link>https://jaap-meerhof.github.io/tags/project/</link>
+    <description>Recent content in Project on Jaap Meerhof</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Jaap Meerhof</copyright>
+    <lastBuildDate>Thu, 01 Jul 2021 21:08:00 +0200</lastBuildDate><atom:link href="https://jaap-meerhof.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bachelor Research</title>
+      <link>https://jaap-meerhof.github.io/projects/bachelor_research/</link>
+      <pubDate>Thu, 01 Jul 2021 21:08:00 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/projects/bachelor_research/</guid>
+      <description>For my bachelor&amp;rsquo;s assignment I chose a project that involved Reinforcement Learning.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaap-meerhof.github.io/projects/bachelor_research/feature_research.jpg" />
+    </item>
+    
+  </channel>
+</rss>

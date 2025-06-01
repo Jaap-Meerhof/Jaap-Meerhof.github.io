@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jaap Meerhof</title>
+    <link>https://jaap-meerhof.github.io/</link>
+    <description>Recent content on Jaap Meerhof</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Jaap Meerhof</copyright>
+    <lastBuildDate>Mon, 14 Apr 2025 21:14:23 +0200</lastBuildDate><atom:link href="https://jaap-meerhof.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alarm</title>
+      <link>https://jaap-meerhof.github.io/projects/alarm/</link>
+      <pubDate>Mon, 14 Apr 2025 21:14:23 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/projects/alarm/</guid>
+      <description>I created an Alarm that listenes to MQTT messages.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaap-meerhof.github.io/projects/alarm/feature_alarm.jpeg" />
+    </item>
+    
+    <item>
+      <title>Master Thesis</title>
+      <link>https://jaap-meerhof.github.io/projects/master/</link>
+      <pubDate>Sun, 25 Jun 2023 20:53:32 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/projects/master/</guid>
+      <description>For my master thisis I worked at the RIVM (National Dutch Institute for Health and Nature).</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaap-meerhof.github.io/projects/master/feature_main.png" />
+    </item>
+    
+    <item>
+      <title>Personal Website</title>
+      <link>https://jaap-meerhof.github.io/projects/personalwebsite/</link>
+      <pubDate>Sat, 24 Jun 2023 21:55:02 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/projects/personalwebsite/</guid>
+      <description>I always wanted to have my own website, however I did not want to deal with the front-end as JavaScript, CSS, and HTML coding is not something I enjoy as much as doing back-end work.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaap-meerhof.github.io/projects/personalwebsite/featurefrontpage.png" />
+    </item>
+    
+    <item>
+      <title>JaapCloud1.0</title>
+      <link>https://jaap-meerhof.github.io/projects/jaapcloud/</link>
+      <pubDate>Sat, 24 Jun 2023 18:22:10 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/projects/jaapcloud/</guid>
+      <description>New article!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaap-meerhof.github.io/projects/jaapcloud/featureJaapCloud.png" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jaap-meerhof.github.io/about/</link>
+      <pubDate>Sat, 24 Jun 2023 17:50:18 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/about/</guid>
+      <description>Hello reader, I&amp;rsquo;m Jaap Meerhof</description>
+      
+    </item>
+    
+    <item>
+      <title>Blockchain Connector</title>
+      <link>https://jaap-meerhof.github.io/projects/blockchain/</link>
+      <pubDate>Sat, 23 Apr 2022 21:26:24 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/projects/blockchain/</guid>
+      <description>For the project of our Blockchain course we were tasked in creating anything as long as it would use or interact with blockchains.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaap-meerhof.github.io/projects/blockchain/feature_prestotezos.png" />
+    </item>
+    
+    <item>
+      <title>Bachelor Research</title>
+      <link>https://jaap-meerhof.github.io/projects/bachelor_research/</link>
+      <pubDate>Thu, 01 Jul 2021 21:08:00 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/projects/bachelor_research/</guid>
+      <description>For my bachelor&amp;rsquo;s assignment I chose a project that involved Reinforcement Learning.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaap-meerhof.github.io/projects/bachelor_research/feature_research.jpg" />
+    </item>
+    
+    <item>
+      <title>Bachelor Design</title>
+      <link>https://jaap-meerhof.github.io/projects/bachelor_design/</link>
+      <pubDate>Sun, 14 Mar 2021 21:14:23 +0200</pubDate>
+      
+      <guid>https://jaap-meerhof.github.io/projects/bachelor_design/</guid>
+      <description>For my bachelor design project we were tasked in creating a location based augmented reality app.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jaap-meerhof.github.io/projects/bachelor_design/feature_utgo.png" />
+    </item>
+    
+  </channel>
+</rss>

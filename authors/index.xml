@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Jaap Meerhof</title>
+    <link>https://jaap-meerhof.github.io/authors/</link>
+    <description>Recent content in Authors on Jaap Meerhof</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 Jaap Meerhof</copyright>
+    <atom:link href="https://jaap-meerhof.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
